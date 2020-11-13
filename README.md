@@ -15,4 +15,4 @@ Also can display hourly temperature diagram.
 
 ## Or
 
-You can click the [link](dmtrlgvch.github.io/weather-app/build).
+You can click the [link](https://dmtrlgvch.github.io/weather-app/build).
